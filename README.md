@@ -1,6 +1,9 @@
 # camera
 
 This project is consist to allow access camera and microphone
+
+![camera_image](https://github.com/spark353/camera_flutter/assets/166623238/a7685268-a527-4ccd-86e3-010e91f33976)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
