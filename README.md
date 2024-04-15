@@ -1,7 +1,6 @@
 # camera
 
-A new Flutter project.
-
+This project is consist to allow access camera and microphone
 ## Getting Started
 
 This project is a starting point for a Flutter application.
